@@ -1,0 +1,8 @@
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\bin\Debug\Mathematics.pdb
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\GameForBaby2.Form1.resources
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\GameForBaby2.Properties.Resources.resources
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.GenerateResource.Cache
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\Mathematics.exe
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Mathematics\Mathematics\obj\Debug\Mathematics.pdb

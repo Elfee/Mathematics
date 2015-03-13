@@ -1,0 +1,8 @@
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\bin\Release\GameForBaby2.exe
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\bin\Release\GameForBaby2.pdb
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\GameForBaby2.Form1.resources
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\GameForBaby2.Properties.Resources.resources
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\GameForBaby2.csproj.GenerateResource.Cache
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\GameForBaby2.exe
+C:\Users\Skynet\AppData\Local\Temporary Projects\GameForBaby2\obj\Release\GameForBaby2.pdb
